@@ -1,26 +1,26 @@
 let arr=[1,2,3,4,5];
 let obj={
-    name:"suchi"
+    name:"sharma"
 }
 let obj2={
-    name:"saketh",
+    name:"sharma2",
     _proto_:obj
 }
 console.log(obj2);
 
 //2.
 let obj1={
-    name:"surabhi",
+    name:"sharma3",
      set:function(){
          console.log("let SET")
         }
  }
  let obj3={
-     lname:"sucharitha",
+     lname:"sharma4",
      walks:"true",
  }
     let obj4={
-        food:"junk food",
+        food:"food",
         walks:"true",
     
      }
